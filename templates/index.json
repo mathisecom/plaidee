@@ -574,13 +574,13 @@
             "subheading": "",
             "title": "Confort et Style pour Toute la Famille",
             "content": "<p>Notre pull plaid à capuche est unisexe et disponible en taille unique, adapté à tous les âges. Sa coupe ample et généreuse fait de lui un véritable cocon de confort pour hommes, femmes et enfants. </p><p>Profitez de moments chaleureux en famille ou en solo, enveloppé dans une douceur exceptionnelle.</p>",
-            "link_text": "",
+            "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#fafdff",
             "background_gradient": "",
             "text_color": "#27a1d0",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#27a1d0",
             "button_text_color": ""
           }
         }
@@ -607,9 +607,9 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
+            "title": "Pratique, Chaleureux et Facile d’Entretien",
+            "content": "<p>Capuche XXL et grande poche frontale pour vos mains et objets. </p><p>Lavable en machine, séchage à l’air libre, toujours doux et moelleux.</p>",
+            "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
