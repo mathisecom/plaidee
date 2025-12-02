@@ -511,8 +511,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "Capuche Oversize",
+            "content": "<p>Douce, ample et parfaite pour rester bien au chaud (ou se cacher du monde).</p>"
           }
         },
         "item_NF4afe": {
@@ -524,8 +524,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Poche Extra-Large",
+            "content": "<p>Assez grande pour accueillir ton téléphone, la télécommande, des sucreries et tes mains froides en même temps.</p>"
           }
         },
         "item_mpmR4M": {
@@ -537,15 +537,29 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "Polaire double épaisseur",
+            "content": "<p>Extérieur Signature ToastyTek™, intérieur en polaire Sherpa. Ultra-doux et conçu pour la chaleur.</p>"
+          }
+        },
+        "item_39WgeV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Manches ajustées",
+            "content": "<p>Fini les manches qui glissent. Des poignets confortables qui gardent tout bien en place.</p>"
           }
         }
       },
       "block_order": [
         "item_H9ztCp",
         "item_NF4afe",
-        "item_mpmR4M"
+        "item_mpmR4M",
+        "item_39WgeV"
       ],
       "name": "Text with icons",
       "settings": {
