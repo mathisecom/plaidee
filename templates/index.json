@@ -144,8 +144,15 @@
             "show_taxes_notice": false
           }
         },
+        "text_fEprXk": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Intérieur en laine de <strong>haute qualité</strong></li><li>Chaud, <strong>moelleux</strong> et <strong>doux</strong></li><li>Taille <strong>unique </strong>et<strong> ample</strong></li></ul>"
+          }
+        },
         "image_Htg3Cz": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/LOGO_PLAIDDY_3.webp",
             "alignment": "start",
@@ -232,6 +239,7 @@
         "liquid_yrEbkt",
         "text_NnfVAQ",
         "price",
+        "text_fEprXk",
         "image_Htg3Cz",
         "liquid_bQbBPY",
         "variant-picker",
