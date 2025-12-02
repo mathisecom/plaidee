@@ -980,7 +980,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#f2f2f2",
         "accordion_text_color": ""
       }
     },
