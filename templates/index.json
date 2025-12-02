@@ -902,8 +902,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Tellement doux et chaud",
+            "content": "<p>Tellement doux et chaud, je ne le quitte plus !</p>"
           }
         },
         "testimonial_hUb9Hk": {
@@ -913,8 +913,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Taille parfaite",
+            "content": "<p>Taille parfaite pour tout le monde, super confortable</p>"
           }
         },
         "testimonial_33xPCC": {
@@ -923,16 +923,28 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Johan B.",
+            "title": "La qualité est incroyable",
+            "content": "<p>La qualité est incroyable, il reste doux après lavage</p>"
+          }
+        },
+        "testimonial_aewgXN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Karim C.",
+            "title": "J’adore !",
+            "content": "<p>Capuche et grande poche ultra pratiques, j’adore !</p>"
           }
         }
       },
       "block_order": [
         "testimonial_Ux6MJw",
         "testimonial_hUb9Hk",
-        "testimonial_33xPCC"
+        "testimonial_33xPCC",
+        "testimonial_aewgXN"
       ],
       "name": "Testimonials",
       "settings": {
