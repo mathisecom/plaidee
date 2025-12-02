@@ -513,6 +513,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_39.png",
             "mobile_icon_width": 48,
             "icon_width": 48,
             "icon_background_type": "circle",
