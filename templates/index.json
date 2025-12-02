@@ -15,19 +15,21 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/blanket-hoodie-lifestyle-3_1080x713_a7e2b076-460d-4d08-a2f4-b4e1c5aa8e9a.jpg",
+            "mobile_image": "shopify://shop_images/20231004_111055-scaled.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h0",
-            "button_text": "",
+            "button_text": "DÉCOUVRIR",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 45,
             "background": "",
             "background_gradient": ""
           }
@@ -40,7 +42,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "show_initial_transition": false,
-        "image_size": "auto",
+        "image_size": "md",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
