@@ -580,6 +580,7 @@
         "image_wkwqHf": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/square-3_480x480_3ade799a-a69a-4a12-9c4c-4601a8af85b2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -615,7 +616,7 @@
         "image_MgXgth": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/square-3_480x480_3ade799a-a69a-4a12-9c4c-4601a8af85b2.webp",
+            "image": "shopify://shop_images/PlaidCo_05_1.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
