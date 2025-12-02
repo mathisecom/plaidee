@@ -900,7 +900,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "John S.",
             "title": "Tellement doux et chaud",
             "content": "<p>Tellement doux et chaud, je ne le quitte plus !</p>"
@@ -922,7 +922,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Johan B.",
             "title": "La qualité est incroyable",
             "content": "<p>La qualité est incroyable, il reste doux après lavage</p>"
