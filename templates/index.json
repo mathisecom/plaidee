@@ -495,7 +495,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Chaleur et Douceur Garanties à Chaque Instant.",
+        "text": "Chaleur et Douceur Garanties à Chaque Instant",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
