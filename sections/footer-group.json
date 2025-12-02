@@ -52,26 +52,12 @@
             "title": "Refer a friend",
             "content": "<p>Tell your customers about your promotional offers.</p>"
           }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
-          }
         }
       },
       "block_order": [
         "free-shipping",
         "customer-support",
-        "discount",
-        "payment"
+        "discount"
       ],
       "settings": {
         "full_width": true,
@@ -80,9 +66,9 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#fafdff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#27a1d0"
       }
     },
     "footer": {
