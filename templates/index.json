@@ -96,6 +96,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_EgfJt9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "collapsible_text_GyhHaH": {
           "type": "collapsible_text",
           "settings": {
@@ -124,6 +130,7 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
+        "liquid_EgfJt9",
         "collapsible_text_GyhHaH",
         "associated_products_aeqdig"
       ],
