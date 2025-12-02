@@ -118,6 +118,16 @@
             "page": ""
           }
         },
+        "collapsible_text_W68iEF": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Informations sur la livraisons",
+            "content": "<p>Nous vous livrons <span style=\"text-decoration:underline\">gratuitement</span> en <strong>5 à 7 jours ouvrés</strong> (du lundi au vendredi) via notre partenaire DHL à votre domicile.</p><p>Notre entrepôt se trouve en <span style=\"text-decoration:underline\">France</span>, vous ne risquez donc <strong>aucun frais de douane</strong> à la réception du colis.</p><p>Pas de mauvaise surprise !</p>",
+            "page": ""
+          }
+        },
         "associated_products_aeqdig": {
           "type": "associated_products",
           "settings": {
@@ -139,6 +149,7 @@
         "liquid_CWXj8f",
         "liquid_EgfJt9",
         "collapsible_text_GyhHaH",
+        "collapsible_text_W68iEF",
         "associated_products_aeqdig"
       ],
       "settings": {
