@@ -330,6 +330,13 @@
             "image": "shopify://shop_images/BANNER_MOBILE_13.png",
             "url": ""
           }
+        },
+        "image_ypcBzt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.png",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -338,7 +345,8 @@
         "image_rb9BtE",
         "image_8wCXg8",
         "image_fJ7Yca",
-        "image_t4QGJJ"
+        "image_t4QGJJ",
+        "image_ypcBzt"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
