@@ -27,19 +27,11 @@
             "text": "SOLDES DE NOËL : -40% DE RÉDUCTION",
             "url": ""
           }
-        },
-        "message_jKmjtT": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
-        "message_hU3Tke",
-        "message_jKmjtT"
+        "message_hU3Tke"
       ],
       "settings": {
         "enable_sticky": false,
