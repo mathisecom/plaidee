@@ -184,6 +184,199 @@
         "input_text_color": ""
       }
     },
+    "rich_text_WUJepB": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_a384Qm": {
+          "type": "subheading",
+          "settings": {
+            "text": "ILS EN PARLENT MIEUX QUE NOUS"
+          }
+        },
+        "heading_YfgbbC": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 Clients Satisfaits",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_a384Qm",
+        "heading_YfgbbC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fafdff",
+        "background_gradient": "",
+        "text_color": "#27a1d0"
+      }
+    },
+    "image_link_blocks_RYBbjm": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_GHkQxp": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_T6d8ym": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VyTAmY": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bdQrnn": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YYtjQE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_mzBXhJ": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_GHkQxp",
+        "item_T6d8ym",
+        "item_VyTAmY",
+        "item_bdQrnn",
+        "item_YYtjQE",
+        "item_mzBXhJ"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#fafdff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_4XTJqY": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Ux6MJw": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_hUb9Hk": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_33xPCC": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Ux6MJw",
+        "testimonial_hUb9Hk",
+        "testimonial_33xPCC"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#fafdff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -235,11 +428,36 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_F4Wfxz": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-product",
-    "faq"
+    "rich_text_WUJepB",
+    "image_link_blocks_RYBbjm",
+    "testimonials_4XTJqY",
+    "faq",
+    "contact_F4Wfxz"
   ]
 }
