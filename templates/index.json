@@ -364,7 +364,7 @@
         "pause_hover": false,
         "scrolling_gap": 70,
         "scrolling_gap_mobile": 30,
-        "card_width_desktop": 130,
+        "card_width_desktop": 180,
         "card_width_mobile": 140,
         "heading_color": "#121212",
         "layout_bg_color": "#ffffff",
@@ -618,6 +618,106 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "ss_scrolling_logo_cloud_5_PrTVT9": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_bkWh6j": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_12.png",
+            "url": ""
+          }
+        },
+        "image_VPQDUR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_11.png",
+            "url": ""
+          }
+        },
+        "image_9FmjdX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_10.png",
+            "url": ""
+          }
+        },
+        "image_Mg9cRc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_9.png",
+            "url": ""
+          }
+        },
+        "image_xwdJfY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_14.png",
+            "url": ""
+          }
+        },
+        "image_qbGtwQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_13.png",
+            "url": ""
+          }
+        },
+        "image_AtPNka": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bkWh6j",
+        "image_VPQDUR",
+        "image_9FmjdX",
+        "image_Mg9cRc",
+        "image_xwdJfY",
+        "image_qbGtwQ",
+        "image_AtPNka"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 18,
+        "scrolling_velocity_mobile": 22,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 30,
+        "card_width_desktop": 170,
+        "card_width_mobile": 140,
+        "heading_color": "#121212",
+        "layout_bg_color": "#ffffff",
+        "layout_border_color": "#121212",
+        "background_color": "#ffffff",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
       }
     },
     "rich_text_WUJepB": {
@@ -900,6 +1000,7 @@
     "text_with_icons_gRJXhX",
     "media_with_text_XMTGmz",
     "media_with_text_zLwwfq",
+    "ss_scrolling_logo_cloud_5_PrTVT9",
     "rich_text_WUJepB",
     "image_link_blocks_RYBbjm",
     "testimonials_4XTJqY",
