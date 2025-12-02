@@ -155,8 +155,8 @@
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
-            "selector_style": "dropdown",
-            "swatch_selector_style": "color",
+            "selector_style": "block",
+            "swatch_selector_style": "none",
             "variant_image_options": "",
             "size_chart_page": ""
           }
