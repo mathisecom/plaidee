@@ -52,6 +52,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_yrEbkt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -122,6 +128,7 @@
         }
       },
       "block_order": [
+        "liquid_yrEbkt",
         "title",
         "price",
         "variant-picker",
