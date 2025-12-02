@@ -109,6 +109,16 @@
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
+        },
+        "associated_products_aeqdig": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
@@ -118,7 +128,8 @@
         "quantity-selector",
         "buy-buttons",
         "collapsible_text_GyhHaH",
-        "collapsible_text_UBqXG3"
+        "collapsible_text_UBqXG3",
+        "associated_products_aeqdig"
       ],
       "settings": {
         "full_width": false,
