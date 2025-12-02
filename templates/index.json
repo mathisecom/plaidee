@@ -101,8 +101,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Matières & Entretien",
+            "content": "<p>À la main ou en machine avec un programme délicat<br/><br/>Eau froide à tiède (maximum 40°C)<br/><br/>Utiliser une lessive douce (spéciale laine/soie)<br/><br/>Ne pas utiliser de sèche-linge<br/><br/>Ne pas repasser</p><p><strong>Composition :</strong></p><p><strong>Extérieur :</strong> Flanelle (100 % polyester)<br/><strong>Intérieur :</strong> Polaire Sherpa (100 % polyester)</p>",
             "page": ""
           }
         },
