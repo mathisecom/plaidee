@@ -76,6 +76,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_bQbBPY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -150,6 +156,7 @@
         "liquid_yrEbkt",
         "text_NnfVAQ",
         "price",
+        "liquid_bQbBPY",
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
