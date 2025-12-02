@@ -938,13 +938,25 @@
             "title": "J’adore !",
             "content": "<p>Capuche et grande poche ultra pratiques, j’adore !</p>"
           }
+        },
+        "testimonial_KjAjjM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Sabrine K.",
+            "title": "Un vrai bonheur.",
+            "content": "<p>Parfait pour cocooner le soir, un vrai bonheur.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_Ux6MJw",
         "testimonial_hUb9Hk",
         "testimonial_33xPCC",
-        "testimonial_aewgXN"
+        "testimonial_aewgXN",
+        "testimonial_KjAjjM"
       ],
       "name": "Testimonials",
       "settings": {
