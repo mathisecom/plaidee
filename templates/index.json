@@ -106,16 +106,6 @@
             "page": ""
           }
         },
-        "collapsible_text_UBqXG3": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
-            "page": ""
-          }
-        },
         "associated_products_aeqdig": {
           "type": "associated_products",
           "settings": {
@@ -135,7 +125,6 @@
         "quantity-selector",
         "buy-buttons",
         "collapsible_text_GyhHaH",
-        "collapsible_text_UBqXG3",
         "associated_products_aeqdig"
       ],
       "settings": {
