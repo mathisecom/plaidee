@@ -580,6 +580,7 @@
         "image_wkwqHf": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PlaidCo_20.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
