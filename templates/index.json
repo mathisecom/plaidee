@@ -144,6 +144,14 @@
             "show_taxes_notice": false
           }
         },
+        "image_Htg3Cz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOGO_PLAIDDY_3.webp",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "liquid_bQbBPY": {
           "type": "liquid",
           "settings": {
@@ -224,6 +232,7 @@
         "liquid_yrEbkt",
         "text_NnfVAQ",
         "price",
+        "image_Htg3Cz",
         "liquid_bQbBPY",
         "variant-picker",
         "quantity-selector",
