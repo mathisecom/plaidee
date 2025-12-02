@@ -945,14 +945,22 @@
           "type": "item",
           "settings": {
             "title": "Comment laver mon Plaidee™ Original ?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>C’est simple :<br/>Lavez-le<strong>à la main ou en machine</strong>avec un programme délicat, à l’eau froide ou tiède (maximum 40°C).<br/><br/>Utilisez une<strong>lessive douce</strong>,<strong>évitez le sèche-linge</strong>et<strong>ne repassez pas</strong>.<br/><br/>Ainsi, votre Plaidee™ restera toujours aussi moelleux et agréable au fil du temps.</p>"
+          }
+        },
+        "item_aVUdHc": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce une bonne idée cadeau ?",
+            "content": "<p>Absolument.<br/><br/>Avec ses couleurs variées et ses modèles aussi doux que stylés, le Plaidee™ est le cadeau parfait pour un anniversaire, Noël ou simplement pour faire plaisir.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_aVUdHc"
       ],
       "settings": {
         "full_width": false,
