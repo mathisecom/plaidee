@@ -150,6 +150,14 @@
             "text": "<ul><li>Intérieur en laine de <strong>haute qualité</strong></li><li>Chaud, <strong>moelleux</strong> et <strong>doux</strong></li><li>Taille <strong>unique </strong>et<strong> ample</strong></li></ul>"
           }
         },
+        "image_Htg3Cz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_7.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "liquid_bQbBPY": {
           "type": "liquid",
           "settings": {
@@ -223,14 +231,6 @@
             "background": "",
             "text_color": ""
           }
-        },
-        "image_Htg3Cz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/C_EST_COMME.jpg",
-            "alignment": "start",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -239,6 +239,7 @@
         "text_NnfVAQ",
         "price",
         "text_fEprXk",
+        "image_Htg3Cz",
         "liquid_bQbBPY",
         "variant-picker",
         "quantity-selector",
@@ -247,8 +248,7 @@
         "liquid_EgfJt9",
         "collapsible_text_GyhHaH",
         "collapsible_text_W68iEF",
-        "associated_products_aeqdig",
-        "image_Htg3Cz"
+        "associated_products_aeqdig"
       ],
       "settings": {
         "full_width": false,
