@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison Offerte en France",
+            "url": ""
+          }
+        },
+        "message_hU3Tke": {
+          "type": "message",
+          "settings": {
+            "text": "SOLDES DE NOËL : -40% DE RÉDUCTION",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_hU3Tke"
       ],
       "settings": {
         "enable_sticky": false,
