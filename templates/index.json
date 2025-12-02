@@ -98,9 +98,9 @@
         "card_width_desktop": 130,
         "card_width_mobile": 100,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -292,24 +292,42 @@
         "image_U3X4GD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_12.png",
             "url": ""
           }
         },
         "image_63p9LW": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_11.png",
             "url": ""
           }
         },
         "image_rb9BtE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_10.png",
             "url": ""
           }
         },
         "image_8wCXg8": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_9.png",
+            "url": ""
+          }
+        },
+        "image_fJ7Yca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_14.png",
+            "url": ""
+          }
+        },
+        "image_t4QGJJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_13.png",
             "url": ""
           }
         }
@@ -318,7 +336,9 @@
         "image_U3X4GD",
         "image_63p9LW",
         "image_rb9BtE",
-        "image_8wCXg8"
+        "image_8wCXg8",
+        "image_fJ7Yca",
+        "image_t4QGJJ"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
@@ -331,7 +351,7 @@
         "heading_size_mobile": 18,
         "heading_height": 130,
         "scrolling_velocity": 18,
-        "scrolling_velocity_mobile": 14,
+        "scrolling_velocity_mobile": 16,
         "scrolling_direction": "left",
         "pause_hover": false,
         "scrolling_gap": 70,
