@@ -52,6 +52,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_jh6ire": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Espacement entre les badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px; /* Taille du badge */\n        font-size: 12px; /* Taille du texte */\n        font-weight: bold;\n        color: white;\n        background: #27A1D0; /* Couleur demandée */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Best Seller</div>\n      <div class=\"badge\">Soldes de Noël</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "liquid_yrEbkt": {
           "type": "liquid",
           "settings": {
@@ -140,6 +146,7 @@
         }
       },
       "block_order": [
+        "liquid_jh6ire",
         "liquid_yrEbkt",
         "text_NnfVAQ",
         "price",
