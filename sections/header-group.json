@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison Offerte en France",
+            "text": "Livraison offerte en France",
             "url": ""
           }
         },
         "message_hU3Tke": {
           "type": "message",
           "settings": {
-            "text": "Offre hivernale : -40% de réducation",
+            "text": "Offre hivernale❄️ -40% de réduction",
             "url": ""
           }
         }
